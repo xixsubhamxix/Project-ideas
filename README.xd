@@ -1,25 +1,27 @@
-# 🚀 Project Ideas
+Project Ideas
+A personal list of technical projects I want to build to improve my skills in computer engineering, GPU programming, game systems, and AI.
 
-A personal list of projects I want to build to improve my skills in computer engineering, GPU programming, game systems, and AI.
+-Hardware / GPU Projects
+ Build an OpenGL renderer from scratch
 
-## 🔧 Hardware / GPU Projects
-- [ ] Build an OpenGL renderer from scratch
-- [ ] Write a GPU benchmarking tool
-- [ ] Create a visualizer that uses GPU load in real-time
+ Write a GPU benchmarking tool
 
-## 🎮 Game Systems / CE-Focused
-- [ ] Make a simple emulator (GameBoy or NES)
-- [ ] Learn and implement a basic anti-cheat technique
-- [ ] Write a custom graphics shader in GLSL
+ Create a visualizer that monitors GPU load in real time
 
-## 🧠 AI + Hardware Blends
-- [ ] Run a neural network on a Raspberry Pi
-- [ ] Try tinygrad or llama.cpp and understand how they work
-- [ ] Combine OpenGL rendering with basic computer vision
+-Game Systems and Computer Engineering
+ Build a simple emulator (e.g., GameBoy or NES)
 
-## ✅ Completed Projects
-- [ ] (Nothing yet — starting soon!)
+ Research and implement a basic anti-cheat technique
 
----
+ Write a custom graphics shader using GLSL
 
-Feel free to check back as I update this with progress!
+-AI and Hardware Integration
+ Run a neural network on a Raspberry Pi
+
+ Explore tinygrad or llama.cpp and break down how they work
+
+ Combine OpenGL rendering with basic computer vision logic
+
+Completed Projects
+ (Nothing yet — starting soon)
+
